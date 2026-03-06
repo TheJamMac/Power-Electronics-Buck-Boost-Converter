@@ -100,6 +100,30 @@ These results demonstrate the fundamental operating principles of DC-DC power co
 
 ---
 
+## Buck Converter Operating Principle
+
+A Buck converter is a DC-DC step-down converter that reduces the input voltage to a lower output voltage using high-frequency switching.
+
+The converter operates in two main switching states:
+
+**Switch ON State**
+
+* The MOSFET conducts.
+* The inductor stores energy.
+* Current increases through the inductor.
+* The load receives energy from the input source.
+
+**Switch OFF State**
+
+* The MOSFET turns OFF.
+* The diode conducts.
+* The inductor releases stored energy to the load.
+* The capacitor helps maintain a smooth output voltage.
+
+By controlling the **PWM duty cycle**, the average output voltage of the converter can be regulated.
+
+---
+
 ## Project Structure
 
 * `docs/` → theory notes and design explanations
