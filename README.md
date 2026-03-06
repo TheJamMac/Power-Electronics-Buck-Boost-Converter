@@ -17,6 +17,11 @@ The project also includes basic design notes, simulation files, and preparation 
 - Analyze output voltage ripple
 - Study the basic behavior of power electronic switching circuits
 
+
+## Buck Converter Circuit
+
+![Buck Circuit](images/buck_converter_circuit.png)
+
 ## Buck Converter Simulation Results
 
 ### PWM Gate Signal and Output Voltage
