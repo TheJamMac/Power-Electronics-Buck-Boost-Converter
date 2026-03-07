@@ -141,6 +141,22 @@ A ground plane was added to improve current return paths and reduce noise in the
 ![Buck Converter PCB](pcb/pcb_layout.png)
 
 ---
+### 3D PCB Visualization
+
+The PCB layout was imported into **Autodesk Fusion** to generate a realistic 3D model of the board.
+
+This visualization helps verify:
+
+• component placement  
+• board layout structure  
+• mechanical spacing  
+
+The model represents the physical implementation of the DC-DC Buck Converter PCB.
+
+![3D PCB View](images/pcb_3d_view.png)
+
+---
+
 ## Project Structure
 
 * `docs/` → theory notes and design explanations
